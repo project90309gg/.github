@@ -4,6 +4,7 @@
 
 Killing Floor 3 is the newest entry in the brutal co-op survival shooter series, and as always, gamers are already searching for ways to boost their performance. From precision aimbots to ESP overlays, cheat menus for KF3 are making rounds in the community. This guide breaks down everything you need to know about available hacks, their features, how they compare with each other, and what to keep in mind before jumping in.
 
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://killing-floor-3-cheats.github.io/.github/)
 ---
 
 ## Product Description
